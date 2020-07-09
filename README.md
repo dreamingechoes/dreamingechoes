@@ -15,7 +15,4 @@ When I'm not working, I like to learn new technologies, write about software dev
 
 ## Useful Links 💙
 
-- [Website](https://dreamingecho.es/)
-- [Twitter](https://twitter.com/dreamingechoes)
-- [Instagram](https://www.instagram.com/dreamingechoes/)
-- [LinkedIn](https://linkedin.com/in/ivangonzalezsaiz/)
+[Website](https://dreamingecho.es/) · [Twitter](https://twitter.com/dreamingechoes) · [Instagram](https://www.instagram.com/dreamingechoes/) · [LinkedIn](https://linkedin.com/in/ivangonzalezsaiz/)
