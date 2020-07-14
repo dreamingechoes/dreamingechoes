@@ -16,7 +16,7 @@ When I'm not working, I like to learn new technologies, write about software dev
 - 😄 Pronouns: [He/him](http://pronoun.is/he).
 - 📫 How to reach me: send me an email to hi@dreamingecho.es.
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
-- 📝 You can take a look at my resume [here]().
+- 📝 You can take a look at my resume [here](https://drive.google.com/file/d/1mir15SJ6COw5LYZRaM47gdXRWbGybVFd/view?usp=sharing).
 
 ## Find me on the internet!
 
