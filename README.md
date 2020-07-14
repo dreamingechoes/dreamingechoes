@@ -1,7 +1,5 @@
 # Hi folks! :wave:
 
-<img align="right" alt="dreamingechoe's Github stats" src="https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true" />
-
 I'm Iván, a software engineer from the north of Spain interested in all kinds of technologies. 
 
 With years of experience developing projects of all kinds with Ruby and Rails, I'm currently focused on Elixir and Phoenix Framework, working full-remote.  
@@ -24,3 +22,7 @@ When I'm not working, I like to learn new technologies, write about software dev
 - 🐦 Tweeting about software development, diversity and inclusion, mental health and random stuff on [Twitter](https://twitter.com/dreamingechoes).
 - 📸 Sharing some picures on [Instagram](https://www.instagram.com/dreamingechoes/).
 - 🌐 On my personal website at [dreamingecho.es](https://dreamingecho.es/).
+
+## Stats
+
+![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true)
