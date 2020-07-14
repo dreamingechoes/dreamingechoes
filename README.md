@@ -1,8 +1,10 @@
 # Hi folks! :wave:
 
-I'm Iván, a software engineer from the north of Spain interested in all kinds of technologies. I've been working as a software engineer since 2005, starting developing desktop applications to quickly focus on my true passion: web development.
+<img align="right" alt="dreamingechoe's Github stats" src="https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true" />
 
-With years of experience developing projects of all kinds with Ruby and Rails, I'm currently focused on Elixir and Phoenix Framework, working fully remotely. The other two fields of computer science that interest me the most are the Internet of Things and Intelligent Systems. 
+I'm Iván, a software engineer from the north of Spain interested in all kinds of technologies. 
+
+With years of experience developing projects of all kinds with Ruby and Rails, I'm currently focused on Elixir and Phoenix Framework, working fully remotely.  
 
 Diversity in the tech industry is very important to me, as well as mental health awareness, and accessibility. Always trying to do my best.
 
@@ -22,5 +24,3 @@ When I'm not working, I like to learn new technologies, write about software dev
 - 🐦 Tweeting about software development, diversity and inclusion, mental health and random stuff on [Twitter](https://twitter.com/dreamingechoes).
 - 📸 Sharing some picures on [Instagram](https://www.instagram.com/dreamingechoes/).
 - 🌐 On my personal website at [dreamingecho.es](https://dreamingecho.es/).
-
-![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true)
