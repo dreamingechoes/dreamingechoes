@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi folks! :wave:
 
 I'm Iván, a software engineer from the north of Spain interested in all kinds of technologies. I've been working as a software engineer since 2005, starting developing desktop applications to quickly focus on my true passion: web development.
 
@@ -8,11 +8,19 @@ Diversity in the tech industry is very important to me, as well as mental health
 
 When I'm not working, I like to learn new technologies, write about software development, organize meetups and conferences about software development, mentor new developers, take some photographs, and play the guitar.
 
+- 🏢 I'm currently working full-time and full-remote at [Lingokids](https://www.lingokids.com/).
+- 🌱 Learning more about and studying: react native, design systems, erlang, elm.
 - 💬 Ask me about: elixir, phoenix, ruby, ruby on rails and everything related to web development.
-- 📫 How to reach me: send me an email to hi@dreamingecho.es.
 - 😄 Pronouns: [He/him](http://pronoun.is/he).
-- ⚡ Fun fact: in my previous life, I was a Pomerania toy :dog:
+- 📫 How to reach me: send me an email to hi@dreamingecho.es.
+- ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
+- 📝 You can take a look at my resume [here]().
 
-## Useful Links 💙
+## Find me on the internet!
 
-[Website](https://dreamingecho.es/) · [Twitter](https://twitter.com/dreamingechoes) · [Instagram](https://www.instagram.com/dreamingechoes/) · [LinkedIn](https://linkedin.com/in/ivangonzalezsaiz/)
+- 💼 Connecting and sharing professional updates on [LinkedIn](https://linkedin.com/in/ivangonzalezsaiz/).
+- 🐦 Tweeting about software development, diversity and inclusion, mental health and random stuff on [Twitter](https://twitter.com/dreamingechoes).
+- 📸 Sharing some picures on [Instagram](https://www.instagram.com/dreamingechoes/).
+- 🌐 On my personal website at [dreamingecho.es](https://dreamingecho.es/).
+
+![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true)
