@@ -4,7 +4,7 @@
 
 I'm Iván, a software engineer from the north of Spain interested in all kinds of technologies. 
 
-With years of experience developing projects of all kinds with Ruby and Rails, I'm currently focused on Elixir and Phoenix Framework, working fully remotely.  
+With years of experience developing projects of all kinds with Ruby and Rails, I'm currently focused on Elixir and Phoenix Framework, working full-remote.  
 
 Diversity in the tech industry is very important to me, as well as mental health awareness, and accessibility. Always trying to do my best.
 
