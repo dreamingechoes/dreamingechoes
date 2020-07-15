@@ -1,4 +1,4 @@
-# Hi folks! :wave:
+# Hi folks! 👋
 
 I'm Iván, a software engineer from the north of Spain interested in all kinds of technologies. 
 
@@ -16,13 +16,13 @@ When I'm not working, I like to learn new technologies, write about software dev
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
 - 📝 You can take a look at my resume [here](https://drive.google.com/file/d/1mir15SJ6COw5LYZRaM47gdXRWbGybVFd/view?usp=sharing).
 
-## Find me on the internet!
+## Find me on the internet! 🔍
 
 - 💼 Connecting and sharing professional updates on [LinkedIn](https://linkedin.com/in/ivangonzalezsaiz/).
 - 🐦 Tweeting about software development, diversity and inclusion, mental health and random stuff on [Twitter](https://twitter.com/dreamingechoes).
 - 📸 Sharing some picures on [Instagram](https://www.instagram.com/dreamingechoes/).
 - 🌐 On my personal website at [dreamingecho.es](https://dreamingecho.es/).
 
-## Stats
+## Stats 📈
 
 ![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true)
