@@ -26,4 +26,4 @@ When I'm not working, I like to learn new technologies, write about software dev
 
 ## Stats 📈
 
-![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true)
+![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
