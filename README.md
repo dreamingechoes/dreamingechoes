@@ -12,13 +12,13 @@ Diversity in the tech industry is very important to me, as well as mental health
 
 When I'm not working, I like to learn new technologies, write about software development, organize meetups and conferences about software development, mentor new developers, take some photographs, and play the guitar.
 
-- 🏢 I'm currently working full-time and full-remote at [Lingokids](https://www.lingokids.com/).
+- 🏢 I'm currently working full-time and full-remote at [Factorial](https://factorialhr.com/).
 - 🌱 Learning more about and studying: react native, design systems, erlang, elm.
 - 💬 Ask me about: elixir, phoenix, ruby, ruby on rails and everything related to web development.
 - 😄 Pronouns: [He/him](http://pronoun.is/he).
 - 📫 How to reach me: send me an email to hi@dreamingecho.es.
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
-- 📝 You can take a look at my resume [here](https://drive.google.com/file/d/12zKscv7V1t8_Gh9oulUasH5dQzcVDmsu/view?usp=sharing).
+- 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1fEI6TjFaNt2Ms2TPgY-HphXmCc3_mK-xBI7n9VldqLE/edit?usp=sharing).
 - 🎵 Check the playlist I use to listen while working [here](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=EiJPQYO7TcGg0GvomkDeYw).
 
 ## Find me on the internet! 🔍
