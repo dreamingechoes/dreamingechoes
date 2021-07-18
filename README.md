@@ -19,6 +19,10 @@ When I'm not working, I like to learn new technologies, write about software dev
 - 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1fEI6TjFaNt2Ms2TPgY-HphXmCc3_mK-xBI7n9VldqLE/edit?usp=sharing).
 - 🎵 Check the playlist I use to listen while working [here](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=EiJPQYO7TcGg0GvomkDeYw).
 
+## Stats 📈
+
+![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
+
 ## Find me on the internet! 🔍
 
 <p align="left">
@@ -106,10 +110,6 @@ When I'm not working, I like to learn new technologies, write about software dev
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
-
-## Stats 📈
-
-![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
 
 ## Support me 🥰
 
