@@ -104,7 +104,3 @@ When I'm not working, I like to learn new technologies, write about software dev
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
-
-## Support me 🥰
-
-<p><a href="https://www.buymeacoffee.com/dreamingechoes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dreamingechoes" /></a></p><br><br>
