@@ -25,82 +25,26 @@ When I'm not working, I like to learn new technologies, write about software dev
 
 ## Find me on the internet! 🔍
 
-<p align="left">
-  <a href="https://codepen.io/dreamingechoes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dreamingechoes" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/dreamingechoes" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dreamingechoes" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/dreamingechoes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dreamingechoes" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ivangonzalezsaiz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivangonzalezsaiz" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/5218888" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5218888" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dreamingechoes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreamingechoes" height="30" width="40" />
-  </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Iván-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzalezsaiz/)](https://www.linkedin.com/in/ivangonzalezsaiz/)
+[![Twitter Badge](https://img.shields.io/badge/-dreamingechoes-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dreamingechoes)](https://twitter.com/dreamingechoes)
+[![Linktree Badge](https://img.shields.io/badge/-dreamingechoes-2ED3BA?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/dreamingechoes)](https://linktr.ee/dreamingechoes)
+[![Stackoverflow Badge](https://img.shields.io/badge/-dreamingechoes-f48024?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5218888)](https://stackoverflow.com/users/5218888)
+[![Instagram Badge](https://img.shields.io/badge/-dreamingechoes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dreamingechoes/)](https://instagram.com/dreamingechoes)
 
 ## Main skills 🧑‍💻
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://elixir-lang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://rubyonrails.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-</p>
+![Elixir](https://img.shields.io/badge/-Elixir-4e2a8e?style=flat-square&logo=elixir)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
+![Ruby On Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=ruby-on-rails)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232F3E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-232F3E?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-232F3E?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232F3E?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-232F3E?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-232F3E?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-232F3E?style=flat-square&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-232F3E?style=flat-square&logo=git)
