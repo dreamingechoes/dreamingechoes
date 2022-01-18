@@ -25,11 +25,11 @@ When I'm not working, I like to learn new technologies, write about software dev
 
 ## Find me on the internet! 🔍
 
-[![Linkedin Badge](https://img.shields.io/badge/-Iván-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzalezsaiz/)](https://www.linkedin.com/in/ivangonzalezsaiz/)
-[![Twitter Badge](https://img.shields.io/badge/-dreamingechoes-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dreamingechoes)](https://twitter.com/dreamingechoes)
-[![Linktree Badge](https://img.shields.io/badge/-dreamingechoes-2ED3BA?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/dreamingechoes)](https://linktr.ee/dreamingechoes)
-[![Stackoverflow Badge](https://img.shields.io/badge/-dreamingechoes-f48024?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5218888)](https://stackoverflow.com/users/5218888)
-[![Instagram Badge](https://img.shields.io/badge/-dreamingechoes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dreamingechoes/)](https://instagram.com/dreamingechoes)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzalezsaiz/)](https://www.linkedin.com/in/ivangonzalezsaiz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dreamingechoes)](https://twitter.com/dreamingechoes)
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-2ED3BA?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/dreamingechoes)](https://linktr.ee/dreamingechoes)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5218888)](https://stackoverflow.com/users/5218888)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dreamingechoes/)](https://instagram.com/dreamingechoes)
 
 ## Main skills 🧑‍💻
 
