@@ -10,7 +10,7 @@ Diversity in the tech industry is very important to me, as well as mental health
 
 When I'm not working, I like to learn new technologies, write about software development, organize meetups and conferences, mentor new developers, take some photographs, and play the guitar.
 
-- 🏢 I'm currently having a break to heal myself before starting my next professional challenge.
+- 🏢 I'm currently working as an Engineering Team Leader at [Remote](http://remote.com/).
 - 🌱 Learning more about and studying: react native, design systems, erlang, elm.
 - 💬 Ask me about: elixir, phoenix, ruby, ruby on rails and everything related to web development.
 - 😄 Pronouns: [He/him](http://pronoun.is/he).
