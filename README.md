@@ -12,6 +12,8 @@
 
 🧘 When I'm not working, I like to learn new technologies, write about software development, organize meetups and conferences, mentor new developers, take some photographs, and play the guitar.
 
+## About me 👀
+
 - 🏢 I'm currently working as an Engineering Team Leader at [Remote](http://remote.com/).
 - 🌱 Learning more about and studying: react native, design systems, erlang, elm.
 - 💬 Ask me about: elixir, phoenix, ruby, ruby on rails and everything related to web development.
@@ -20,18 +22,6 @@
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
 - 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1fEI6TjFaNt2Ms2TPgY-HphXmCc3_mK-xBI7n9VldqLE/edit?usp=sharing).
 - 🎵 Check the playlist I use to listen while working [here](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=EiJPQYO7TcGg0GvomkDeYw).
-
-## Stats 📈
-
-![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
-
-## Find me on the internet! 🔍
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzalezsaiz/)](https://www.linkedin.com/in/ivangonzalezsaiz/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dreamingechoes)](https://twitter.com/dreamingechoes)
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-2ED3BA?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/dreamingechoes)](https://linktr.ee/dreamingechoes)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5218888)](https://stackoverflow.com/users/5218888)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dreamingechoes/)](https://instagram.com/dreamingechoes)
 
 ## Main skills 🧑‍💻
 
@@ -50,3 +40,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-232F3E?style=flat-square&logo=git)
+
+## Find me on the internet! 🔍
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzalezsaiz/)](https://www.linkedin.com/in/ivangonzalezsaiz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dreamingechoes)](https://twitter.com/dreamingechoes)
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-2ED3BA?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/dreamingechoes)](https://linktr.ee/dreamingechoes)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5218888)](https://stackoverflow.com/users/5218888)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dreamingechoes/)](https://instagram.com/dreamingechoes)
+
+## Stats 📈
+
+![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
