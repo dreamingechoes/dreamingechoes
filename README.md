@@ -1,11 +1,6 @@
 ![1649707209743](https://user-images.githubusercontent.com/4928335/170882671-07624be5-b7c7-42a1-ad47-fd51e741501e.jpeg)
 
-
-# Hi folks! 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamingechoes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamingechoes" /> </p>
-
-😊 I'm Iván González Sáiz, a senior software engineer with a bachelor's degree in computer science and +12 years of professional experience.
+😊 Hi folks! I'm Iván González Sáiz, a senior software engineer with a bachelor's degree in computer science and +12 years of professional experience.
 
 🙋 T-Shaped profile, although Backend is my core expertise, I can bring value as well in other areas such as Frontend, DevOps, Mobile Dev, and UI/UX. Product-focused, my main goal is to solve problems. I'm also focused on team management, enabling and supporting engineers to give the most out of themselves while growing and improving themselves in the process. Working fully remote since 2016, and managing teams since 2020. I always try to do my best.
 
@@ -54,4 +49,5 @@
 
 ## Stats 📈
 
+<img src="https://komarev.com/ghpvc/?username=dreamingechoes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamingechoes" /> </p>
 ![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
