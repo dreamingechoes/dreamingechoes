@@ -17,7 +17,7 @@
 - 🏢 I'm currently working as an Engineering Team Leader at [Remote](http://remote.com/).
 - 🌱 Learning more about and studying: react native, design systems, erlang, and elm.
 - 💬 Ask me about elixir, phoenix, ruby, ruby on rails, and everything related to web development.
-- 😄 Pronouns: [He/him](http://pronoun.is/he).
+- 😄 Pronouns: He/him/his.
 - 📫 How to reach me: send me an email at hi@dreamingecho.es.
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
 - 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1fEI6TjFaNt2Ms2TPgY-HphXmCc3_mK-xBI7n9VldqLE/edit?usp=sharing).
