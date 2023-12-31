@@ -12,7 +12,7 @@
 
 🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. In my free time, you might find me capturing moments through photography or strumming away on my guitar.
 
-👥 If you need a mentoring session, ping me at [Mentor Cruise](mentors.to/ivan-gonzalez-saiz).
+👥 If you need a mentoring session, ping me at [Mentor Cruise](https://mentors.to/ivan-gonzalez-saiz).
 
 ## About me 👀
 
