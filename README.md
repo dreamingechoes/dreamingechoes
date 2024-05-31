@@ -13,9 +13,8 @@
 🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. In my free time, you might find me capturing moments through photography or strumming away on my guitar.
 
 <a href="https://mentorcruise.com/mentor/ivngonzlezsiz/">
-  <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise" />
+<img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise">
 </a>
-
 
 ## About me 👀
 
@@ -25,7 +24,7 @@
 - 😄 Pronouns: He/him/his.
 - 📫 How to reach me: send me an email at hi@dreamingecho.es.
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
-- 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1fEI6TjFaNt2Ms2TPgY-HphXmCc3_mK-xBI7n9VldqLE/edit?usp=sharing).
+- 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1xetATl-AmyPCvStI1Jb0TJ0M8NAz7nTn5sSUn3zkqOA/edit?usp=sharing).
 - 🎵 Check the playlist I use to listen while working [here](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=EiJPQYO7TcGg0GvomkDeYw).
 
 ## Main skills 🧑‍💻
