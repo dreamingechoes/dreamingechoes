@@ -12,10 +12,6 @@
 
 🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. In my free time, you might find me capturing moments through photography or strumming away on my guitar.
 
-<a href="https://mentorcruise.com/mentor/ivngonzlezsiz/">
-<img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise">
-</a>
-
 ## About me 👀
 
 - 🏢 I'm currently working as an Engineering Team Leader at [Remote](http://remote.com/).
