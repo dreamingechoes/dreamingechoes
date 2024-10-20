@@ -10,11 +10,12 @@
 
 ✨ Beyond coding, I actively promote diversity in the tech industry and advocate for mental health and accessibility awareness. These topics are close to my heart, and I believe they're essential for creating a more inclusive and supportive community.
 
-🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. In my spare time, you can see me capturing moments through photography or strumming on my guitar.
+🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. You can see me capturing moments through photography or strumming on my guitar.
 
 ## About me 👀
 
-- 🏢 I'm currently working as an Engineering Team Leader at [Remote](http://remote.com/).
+- 🏢 Currently working as an Engineering Team Leader at [Remote](http://remote.com/).
+- 🧑‍🏫 I help professionals thrive in their careers through expert Software Engineering and Leadership guidance at [MentorCruise](https://mentorcruise.com/mentor/ivngonzlezsiz/)
 - 🌱 Learning more about and studying: react native, design systems, erlang, and elm.
 - 💬 Ask me about elixir, phoenix, ruby, ruby on rails, and everything related to web development.
 - 😄 Pronouns: He/him/his.
