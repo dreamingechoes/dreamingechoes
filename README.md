@@ -1,8 +1,8 @@
 ![1649707209743](https://user-images.githubusercontent.com/4928335/170882671-07624be5-b7c7-42a1-ad47-fd51e741501e.jpeg)
 
-👋 Hi folks! I'm Iván, a seasoned software engineer passionate about building outstanding digital solutions, with a bachelor's degree in computer science, and 15 years of professional experience.
+👋 Hi folks! I'm Iván, a seasoned software engineer passionate about building outstanding digital solutions. I have a bachelor's degree in computer science and 15 years of professional experience.
 
-🙋 I've got a T-shaped profile, and while my core specialization lies in Backend development, I've also delved into several other exciting domains, including Frontend, DevOps, Mobile Development, and UI/UX. I love taking on complex challenges and creating product-oriented solutions that make a real impact.
+🙋 I've got a T-shaped profile. While my core specialization lies in Backend development, I've also delved into several other exciting domains, including Frontend, DevOps, Mobile Development, and UI/UX. I love taking on complex challenges and creating product-oriented solutions that make a real impact.
 
 🧑‍💻 Being a team player is in my DNA, and I've been leading excellent teams since 2020. I'm all about empowering fellow engineers, nurturing their growth, and creating a healthy and supportive work environment. Remote work has been my thing since 2016, and I thrive on delivering excellence in every project.
 
@@ -10,7 +10,7 @@
 
 ✨ Beyond coding, I actively promote diversity in the tech industry and advocate for mental health and accessibility awareness. These topics are close to my heart, and I believe they're essential for creating a more inclusive and supportive community.
 
-🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. You might see me capturing moments through photography or strumming on my guitar in my free time.
+🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. In my spare time, you can see me capturing moments through photography or strumming on my guitar.
 
 ## About me 👀
 
