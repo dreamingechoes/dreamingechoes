@@ -15,10 +15,9 @@
 ## About me 👀
 
 - 🏢 Currently working as an Engineering Team Leader at [Remote](http://remote.com/).
-- 🧑‍🏫 I help professionals thrive in their careers through expert Software Engineering and Leadership guidance at [MentorCruise](https://mentorcruise.com/mentor/ivngonzlezsiz/)
+- 🧑‍🏫 I help professionals thrive in their careers through expert Software Engineering and Leadership guidance at [MentorCruise](https://mentorcruise.com/mentor/ivngonzlezsiz/).
 - 🌱 Learning more about and studying: react native, design systems, erlang, and elm.
 - 💬 Ask me about elixir, phoenix, ruby, ruby on rails, and everything related to web development.
-- 😄 Pronouns: He/him/his.
 - 📫 How to reach me: send me an email at hi@dreamingecho.es.
 - ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
 - 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1xetATl-AmyPCvStI1Jb0TJ0M8NAz7nTn5sSUn3zkqOA/edit?usp=sharing).
