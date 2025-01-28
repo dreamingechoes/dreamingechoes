@@ -1,6 +1,6 @@
 ![1649707209743](https://user-images.githubusercontent.com/4928335/170882671-07624be5-b7c7-42a1-ad47-fd51e741501e.jpeg)
 
-# 🚀 Hi, I'm Iván!  
+# Hi folks!  
 
 I'm a **Software Engineer & Engineering Team Leader** passionate about **scalable systems, developer experience, and mentoring engineers**. With **15+ years of experience**, I specialize in **backend development**, but my T-shaped skill set extends into **frontend, DevOps, mobile, and UI/UX**.  
 
