@@ -1,53 +1,77 @@
 ![1649707209743](https://user-images.githubusercontent.com/4928335/170882671-07624be5-b7c7-42a1-ad47-fd51e741501e.jpeg)
 
-👋 Hi folks! I'm Iván, a seasoned software engineer passionate about building outstanding digital solutions. I have a bachelor's degree in computer science and 15 years of professional experience.
+# 🚀 Hi, I'm Iván!  
 
-🙋 I've got a T-shaped profile. While my core specialization lies in Backend development, I've also delved into several other exciting domains, including Frontend, DevOps, Mobile Development, and UI/UX. I love taking on complex challenges and creating product-oriented solutions that make a real impact.
+I'm a **Software Engineer & Engineering Team Leader** passionate about **scalable systems, developer experience, and mentoring engineers**. With **15+ years of experience**, I specialize in **backend development**, but my T-shaped skill set extends into **frontend, DevOps, mobile, and UI/UX**.  
 
-🧑‍💻 Being a team player is in my DNA, and I've been leading excellent teams since 2020. I'm all about empowering fellow engineers, nurturing their growth, and creating a healthy and supportive work environment. Remote work has been my thing since 2016, and I thrive on delivering excellence in every project.
+💡 **I love solving complex challenges** and **building impactful digital solutions** with **Elixir, Phoenix, Ruby on Rails, and React**. My approach is **product-oriented**, ensuring that engineering decisions drive real business value.  
 
-🧰 My technical toolbox is quite diverse, and I'm proficient in various technologies, such as Elixir, Phoenix Framework, Ruby, Ruby on Rails, HTML, CSS, JavaScript, React, and React Native.
+## 👨‍💻 What I Do  
+🏢 **Engineering Team Leader** at [Remote](https://remote.com) – Scaling distributed teams, optimizing backend architectures, and mentoring engineers.  
+🧑‍🏫 **Mentor at MentorCruise** – Helping professionals grow in **software engineering, leadership, and career development**.  
+🌍 **Open-Source & Community Contributor** – Founder of **Elixir Asturias**, co-organizer of **FabadaConf**, and advocate for **Diversity & Mental Health in Tech**.  
 
-✨ Beyond coding, I actively promote diversity in the tech industry and advocate for mental health and accessibility awareness. These topics are close to my heart, and I believe they're essential for creating a more inclusive and supportive community.
+## 🛠️ My Tech Toolbox  
+🔹 **Backend:** Elixir, Phoenix, Ruby, Rails, Node.js  
+🔹 **Frontend:** JavaScript, TypeScript, React, Next.js  
+🔹 **Databases:** PostgreSQL, MySQL  
+🔹 **DevOps & Cloud:** AWS, Docker, CI/CD  
+🔹 **Learning More About:** React Native, Design Systems, Erlang, Elm  
 
-🧘 Outside of work, I'm a perpetual learner of emerging technologies. Organizing meetups and conferences allows me to connect with like-minded professionals, and I find fulfillment in mentoring aspiring developers. You can see me capturing moments through photography or strumming on my guitar.
+## 💬 Ask Me About  
+🚀 **Elixir, Phoenix, Ruby on Rails** – Anything about web development and backend architecture.  
+🧑‍💻 **Tech Leadership & Career Growth** – Building high-performing teams and growing in tech.  
+🎤 **Public Speaking & Mentorship** – Conferences, tech talks, and coaching engineers.  
 
-## About me 👀
+## 📫 How to Reach Me  
+📩 **Email:** hi@dreamingecho.es  
+💼 **LinkedIn:** [linkedin.com/in/ivan-gonzalez-saiz](https://linkedin.com/in/ivan-gonzalez-saiz)  
+🌐 **Personal Website:** [dreamingecho.es](https://dreamingecho.es)  
+📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1GDKvoJR89XAWZlaI-UZjtwE_hEpsZJfs/view?usp=drive_link)  
 
-- 🏢 Currently working as an Engineering Team Leader at [Remote](http://remote.com/).
-- 🧑‍🏫 I help professionals thrive in their careers through expert Software Engineering and Leadership guidance at [MentorCruise](https://mentorcruise.com/mentor/ivngonzlezsiz/).
-- 🌱 Learning more about and studying: react native, design systems, erlang, and elm.
-- 💬 Ask me about elixir, phoenix, ruby, ruby on rails, and everything related to web development.
-- 📫 How to reach me: send me an email at hi@dreamingecho.es.
-- ⚡ Fun fact: in my previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_(dog)) :dog:
-- 📝 You can take a look at my resume [here](https://docs.google.com/document/d/1xetATl-AmyPCvStI1Jb0TJ0M8NAz7nTn5sSUn3zkqOA/edit?usp=sharing).
-- 🎵 Check the playlist I use to listen while working [here](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=EiJPQYO7TcGg0GvomkDeYw).
+## 🎵 Fun Stuff  
+🎵 [Check out my work playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
+⚡ **Fun fact:** In a previous life, I was a **Pomeranian toy** 🐶.  
 
-## Main skills 🧑‍💻
+## 🧑‍💻 Main Skills  
 
+### 🔹 Backend & API Development  
 ![Elixir](https://img.shields.io/badge/-Elixir-4e2a8e?style=flat-square&logo=elixir)
+![Phoenix](https://img.shields.io/badge/-Phoenix-4e2a8e?style=flat-square&logo=elixir)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![Ruby On Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=ruby-on-rails)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232F3E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-232F3E?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+
+### 🔹 Frontend Development  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232F3E?style=flat-square&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232F3E?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-232F3E?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-232F3E?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-232F3E?style=flat-square&logo=Redis)
-![Docker](https://img.shields.io/badge/-Docker-232F3E?style=flat-square&logo=docker)
+
+### 🔹 Databases & Storage  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🔹 DevOps & Cloud  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-232F3E?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
 
-## Find me on the internet! 🔍
+## 🔍 Find Me on the Internet!  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzalezsaiz/)](https://www.linkedin.com/in/ivan-gonzalez-saiz/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dreamingechoes)](https://twitter.com/dreamingechoes)
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-2ED3BA?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/dreamingechoes)](https://linktr.ee/dreamingechoes)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5218888)](https://stackoverflow.com/users/5218888)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dreamingechoes/)](https://instagram.com/dreamingechoes)
+🌐 **Let's connect!** You can find me on different platforms where I share insights, collaborate on open-source, and engage with the tech community.  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-gonzalez-saiz/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dreamingechoes)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dreamingechoes)
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-2ED3BA?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/dreamingechoes)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5218888)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dreamingechoes)
 
 ## Stats 📈
 
