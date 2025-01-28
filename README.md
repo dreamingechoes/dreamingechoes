@@ -73,7 +73,7 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5218888)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dreamingechoes)
 
-## Stats 📈
+## 📈 Stats
 
 <img src="https://komarev.com/ghpvc/?username=dreamingechoes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamingechoes" /> </p>
 ![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
