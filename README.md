@@ -30,7 +30,7 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1GDKvoJR89XAWZlaI-UZjtwE_hEpsZJfs/view?usp=drive_link)  
 
 ## 😄 Fun Stuff  
-🎵 [Check out my work playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
+🎵 Check out my work [playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
 ⚡ **Fun fact:** In a previous life, I was a **Pomeranian toy** 🐶.  
 
 ## 🧑‍💻 Main Skills  
