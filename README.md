@@ -27,7 +27,7 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 📩 **Email:** hi@dreamingecho.es  
 💼 **LinkedIn:** [linkedin.com/in/ivan-gonzalez-saiz](https://linkedin.com/in/ivan-gonzalez-saiz)  
 🌐 **Personal Website:** [dreamingecho.es](https://dreamingecho.es)  
-📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1GDKvoJR89XAWZlaI-UZjtwE_hEpsZJfs/view?usp=drive_link)  
+📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1QzH074991QS4YYEOymR3rh5QkXtRewKh/view?usp=sharing)  
 
 ## 😄 Fun Stuff  
 🎵 Check out my work [playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
