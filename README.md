@@ -33,6 +33,10 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 🎵 Check out my work [playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
 ⚡ **Fun fact:** In a previous life, I was a **Pomeranian toy** 🐶.  
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🧑‍💻 Main Skills  
 
 ### 🔹 Backend & API Development  
