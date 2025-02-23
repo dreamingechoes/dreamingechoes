@@ -35,7 +35,7 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Search Input With Phoenix LiveView](https://dreamingecho.es/blog/building-an-ai-powered-search-input-with-phoenix-liveview)
+- [Creating an AI-Powered Search Input With Phoenix LiveView](https://dreamingecho.es/blog/creating-an-ai-powered-search-input-with-phoenix-liveview)
 - [Building a Minimal Blog in Pure Elixir with Notion as a CMS](https://dreamingecho.es/blog/building-a-minimal-blog-in-pure-elixir-with-notion-as-a-cms)
 - [How to Change a Field Type in an Ecto Embedded Schema with a Migration](https://dreamingecho.es/blog/how-to-change-a-field-type-in-an-ecto-embedded-schema-with-a-migration)
 - [Small Signals, Big Impact: How Tiny Acts of Self-Care Can Transform Workplace Well-Being](https://dreamingecho.es/blog/small-signals-big-impact-workplace-self-care)
