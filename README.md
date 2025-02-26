@@ -30,8 +30,8 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1qEyG1hSF9D-u7NoMJpIaaohVpo7IuXQk/view?usp=sharing)  
 
 ## 😄 Fun Stuff  
-🎵 Check out my work [playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
-⚡ **Fun fact:** In a previous life, I was a **Pomeranian toy** 🐶.  
+🎵 Check out my [work playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
+⚡ Fun fact – In a previous life, I was a [Pomeranian toy](https://en.wikipedia.org/wiki/Pomeranian_dog) 🐶.  
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
