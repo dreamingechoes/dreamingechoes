@@ -1,4 +1,4 @@
-![1649707209743](https://user-images.githubusercontent.com/4928335/170882671-07624be5-b7c7-42a1-ad47-fd51e741501e.jpeg)
+![1739885219873](https://github.com/user-attachments/assets/9fe12a5d-6fe2-4a73-9cda-1f007e8ce32e)
 
 # Hi folks! 👋
 
