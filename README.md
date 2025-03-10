@@ -12,11 +12,11 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 🌍 **Open-Source & Community Contributor** – Founder of **Elixir Asturias**, co-organizer of **FabadaConf**, and advocate for **Diversity & Mental Health in Tech**.  
 
 ## 🛠️ My Tech Toolbox  
-🔹 **Backend:** Elixir, Phoenix, Ruby, Rails, Node.js  
-🔹 **Frontend:** JavaScript, TypeScript, React, Next.js  
-🔹 **Databases:** PostgreSQL, MySQL  
-🔹 **DevOps & Cloud:** AWS, Docker, CI/CD  
-🔹 **Learning More About:** React Native, Design Systems, Erlang, Elm  
+- **Backend:** Elixir, Phoenix, Ruby, Rails, Node.js  
+- **Frontend:** JavaScript, TypeScript, React, Next.js  
+- **Databases:** PostgreSQL, MySQL  
+- **DevOps & Cloud:** AWS, Docker, CI/CD  
+- **Learning More About:** React Native, Design Systems, Erlang, Elm  
 
 ## 💬 Ask Me About  
 🚀 **Elixir, Phoenix, Ruby on Rails** – Anything about web development and backend architecture.  
@@ -44,14 +44,14 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 
 ## 🧑‍💻 Main Skills  
 
-### 🔹 Backend & API Development  
+### Backend & API Development  
 ![Elixir](https://img.shields.io/badge/-Elixir-4e2a8e?style=flat-square&logo=elixir)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-4e2a8e?style=flat-square&logo=elixir)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![Ruby On Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=ruby-on-rails)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 
-### 🔹 Frontend Development  
+### Frontend Development  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -59,13 +59,13 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-### 🔹 Databases & Storage  
+### Databases & Storage  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🔹 DevOps & Cloud  
+### DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
