@@ -35,11 +35,11 @@ I'm a **Software Engineer & Engineering Team Leader** passionate about **scalabl
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Burnout in Engineering Leadership: How to Recognize and Prevent It](https://dreamingecho.es/blog/how-to-prevent-burnout-in-engineering-leadership)
 - [Owning Your Career as a Software Engineer: Beyond Code to Real Impact](https://dreamingecho.es/blog/own-your-software-engineering-career-growth)
 - [Building a Culture of Psychological Safety in Engineering Teams](https://dreamingecho.es/blog/building-a-culture-of-psychological-safety-in-engineering-teams)
 - [Creating an AI-Powered Search Input With Phoenix LiveView](https://dreamingecho.es/blog/creating-an-ai-powered-search-input-with-phoenix-liveview)
 - [Building a Minimal Blog in Pure Elixir with Notion as a CMS](https://dreamingecho.es/blog/building-a-minimal-blog-in-pure-elixir-with-notion-as-a-cms)
-- [How to Change a Field Type in an Ecto Embedded Schema with a Migration](https://dreamingecho.es/blog/how-to-change-a-field-type-in-an-ecto-embedded-schema-with-a-migration)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
