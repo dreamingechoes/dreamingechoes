@@ -2,12 +2,12 @@
 
 # Hi folks! 👋
 
-I'm a **Software Engineer & Engineering Team Leader** passionate about **scalable systems, developer experience, and mentoring engineers**. With **15+ years of experience**, I specialize in **backend development**, but my T-shaped skill set extends into **frontend, DevOps, mobile, and UI/UX**.  
+I'm a **Software Engineer** passionate about **scalable systems, developer experience, and mentoring engineers**. With **15+ years of experience**, I specialize in **backend development**, but my T-shaped skill set extends into **frontend, DevOps, mobile, and UI/UX**.  
 
 💡 **I love solving complex challenges** and **building impactful digital solutions** with **Elixir, Phoenix, Ruby on Rails, and React**. My approach is **product-oriented**, ensuring that engineering decisions drive real business value.  
 
 ## 👨‍💻 What I Do  
-🏢 **Engineering Team Leader** at [Remote](https://remote.com) – Scaling distributed teams, optimizing backend architectures, and mentoring engineers.  
+🏢 **Engineering Team Leader** at [Remote](https://remote.com) – Optimizing backend architectures, and mentoring engineers.  
 🧑‍🏫 **Mentor at MentorCruise** – Helping professionals grow in **software engineering, leadership, and career development**.  
 🌍 **Open-Source & Community Contributor** – Founder of **Elixir Asturias**, co-organizer of **FabadaConf**, and advocate for **Diversity & Mental Health in Tech**.  
 
