@@ -7,7 +7,7 @@ I'm a **Software Engineer** passionate about **scalable systems, developer exper
 💡 **I love solving complex challenges** and **building impactful digital solutions** with **Elixir, Phoenix, Ruby on Rails, and React**. My approach is **product-oriented**, ensuring that engineering decisions drive real business value.  
 
 ## 👨‍💻 What I Do  
-🏢 **Engineering Team Leader** at [Remote](https://remote.com) – Optimizing backend architectures, and mentoring engineers.  
+🏢 **Senior Software Engineer & Engineering Lead** – Optimizing backend architectures, and mentoring engineers.  
 🧑‍🏫 **Mentor at MentorCruise** – Helping professionals grow in **software engineering, leadership, and career development**.  
 🌍 **Open-Source & Community Contributor** – Founder of **Elixir Asturias**, co-organizer of **FabadaConf**, and advocate for **Diversity & Mental Health in Tech**.  
 
@@ -27,7 +27,7 @@ I'm a **Software Engineer** passionate about **scalable systems, developer exper
 📩 **Email:** hi@dreamingecho.es  
 💼 **LinkedIn:** [linkedin.com/in/ivan-gonzalez-saiz](https://linkedin.com/in/ivan-gonzalez-saiz)  
 🌐 **Personal Website:** [dreamingecho.es](https://dreamingecho.es)  
-📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1RwSJcuciMdYsIo0kt45i2ip4s5vBPwl2/view)  
+📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1bYpMnn7eR-xq28iASsJBxAf4zrWPFZNa/view?usp=sharing)  
 
 ## 😄 Fun Stuff  
 🎵 Check out my [work playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
