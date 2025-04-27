@@ -7,7 +7,7 @@ I'm a **Software Engineer** passionate about **scalable systems, developer exper
 💡 **I love solving complex challenges** and **building impactful digital solutions** with **Elixir, Phoenix, Ruby on Rails, and React**. My approach is **product-oriented**, ensuring that engineering decisions drive real business value.  
 
 ## 👨‍💻 What I Do  
-🏢 **Senior Software Engineer & Engineering Lead** – Optimizing backend architectures, and mentoring engineers.  
+🏢 **Senior Software Engineer & Engineering Lead** – Leading distributed teams, optimizing architectures, and driving engineering strategy. 
 🧑‍🏫 **Mentor at MentorCruise** – Helping professionals grow in **software engineering, leadership, and career development**.  
 🌍 **Open-Source & Community Contributor** – Founder of **Elixir Asturias**, co-organizer of **FabadaConf**, and advocate for **Diversity & Mental Health in Tech**.  
 
