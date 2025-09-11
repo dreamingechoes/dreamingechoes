@@ -2,7 +2,7 @@
 
 # Hi folks! 👋
 
-I'm a **Software Engineer** passionate about **scalable systems, developer experience, and mentoring engineers**. With **15+ years of experience**, I specialize in **backend development**, but my T-shaped skill set extends into **frontend, DevOps, mobile, and UI/UX**.  
+I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **scalable systems, developer experience, and mentoring engineers**. With **15+ years of experience**, I specialize in **backend development**, but my T-shaped skill set extends into **frontend, DevOps, mobile, and UI/UX**.  
 
 💡 **I love solving complex challenges** and **building impactful digital solutions** with **Elixir, Phoenix, Ruby on Rails, and React**. My approach is **product-oriented**, ensuring that engineering decisions drive real business value.  
 
