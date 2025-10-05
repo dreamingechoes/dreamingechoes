@@ -27,7 +27,7 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 📩 **Email:** hi@dreamingecho.es  
 💼 **LinkedIn:** [linkedin.com/in/ivan-gonzalez-saiz](https://linkedin.com/in/ivan-gonzalez-saiz)  
 🌐 **Personal Website:** [dreamingecho.es](https://dreamingecho.es)  
-📄 **Resume:** [Check it out here](https://drive.google.com/file/d/1bYpMnn7eR-xq28iASsJBxAf4zrWPFZNa/view?usp=sharing)  
+📄 **Resume:** [Check it out here](https://dreamingecho.es/cv)  
 
 ## 😄 Fun Stuff  
 🎵 Check out my [work playlist](https://open.spotify.com/playlist/4Hppv1D8FYJd10TjoUz04e?si=8npxOv8dSw2qP433IsvXaw) – The soundtrack behind the code.  
