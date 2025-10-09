@@ -35,7 +35,7 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [People‑first, for real: adapt your management style to the person](https://dreamingecho.es/blog/people-first-engineering-management-adapt-your-style)
+- [People‑first, For Real: Adapt Your Management Style to the Person](https://dreamingecho.es/blog/people-first-engineering-management-adapt-your-style)
 - [High‑impact 1:1s in Remote Teams: Building Trust and Psychological Safety](https://dreamingecho.es/blog/effective-one-on-ones-remote-teams-trust-psychological-safety)
 - [The Anatomy of a GenServer](https://dreamingecho.es/blog/the-anatomy-of-a-genserver)
 - [Burnout in Engineering Leadership: How to Recognize and Prevent It](https://dreamingecho.es/blog/how-to-prevent-burnout-in-engineering-leadership)
