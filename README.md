@@ -1,4 +1,4 @@
-![1739885219873](https://github.com/user-attachments/assets/9fe12a5d-6fe2-4a73-9cda-1f007e8ce32e)
+<img width="1585" height="396" alt="Group 29" src="https://github.com/user-attachments/assets/4bb66d8c-a7b9-438f-a7d7-8bce21165f83" />
 
 # Hi folks! 👋
 
