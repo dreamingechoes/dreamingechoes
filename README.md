@@ -1,4 +1,4 @@
-<img width="1585" height="396" alt="Group 29" src="https://github.com/user-attachments/assets/4bb66d8c-a7b9-438f-a7d7-8bce21165f83" />
+<img width="1585" height="396" alt="Group 29" src="https://github.com/user-attachments/assets/5a172733-a62f-47b7-b11c-2d497a57cdd6" />
 
 # Hi folks! 👋
 
