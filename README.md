@@ -35,11 +35,11 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From PRD to Prod Without Ping-Pong](https://dreamingecho.es/blog/from-prd-to-prod-without-ping-pong)
 - [When Overcommunication Becomes Noise in Remote Teams](https://dreamingecho.es/blog/when-overcommunication-becomes-noise-in-remote-teams)
 - [People‑first, For Real: Adapt Your Management Style to the Person](https://dreamingecho.es/blog/people-first-engineering-management-adapt-your-style)
 - [High‑impact 1:1s in Remote Teams: Building Trust and Psychological Safety](https://dreamingecho.es/blog/effective-one-on-ones-remote-teams-trust-psychological-safety)
 - [The Anatomy of a GenServer](https://dreamingecho.es/blog/the-anatomy-of-a-genserver)
-- [Burnout in Engineering Leadership: How to Recognize and Prevent It](https://dreamingecho.es/blog/how-to-prevent-burnout-in-engineering-leadership)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
