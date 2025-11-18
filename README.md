@@ -35,11 +35,11 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Post-Launch Care Windows](https://dreamingecho.es/blog/post-launch-care-windows)
 - [Design Debt Is Real Debt](https://dreamingecho.es/blog/design-debt-is-real-debt)
 - [Weekly Bets vs. Backlog Treadmills](https://dreamingecho.es/blog/weekly-bets-vs-backlog-treadmills)
 - [From PRD to Prod Without Ping-Pong](https://dreamingecho.es/blog/from-prd-to-prod-without-ping-pong)
 - [When Overcommunication Becomes Noise in Remote Teams](https://dreamingecho.es/blog/when-overcommunication-becomes-noise-in-remote-teams)
-- [People‑first, For Real: Adapt Your Management Style to the Person](https://dreamingecho.es/blog/people-first-engineering-management-adapt-your-style)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
