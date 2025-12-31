@@ -35,11 +35,11 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Year I Paused to Move Forward](https://dreamingecho.es/blog/the-year-i-paused-to-move-forward)
 - [The Comparison Trap](https://dreamingecho.es/blog/the-comparison-trap)
 - [High Achievers, Heavy Minds](https://dreamingecho.es/blog/high-achievers-heavy-minds)
 - [When Your Worth Becomes Your Output](https://dreamingecho.es/blog/when-your-worth-becomes-your-output)
 - [The Invisible Burnout](https://dreamingecho.es/blog/the-invisible-burnout)
-- [Qual + Quant Reviews in 45 Minutes](https://dreamingecho.es/blog/qual-quant-reviews-in-45-minutes)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
