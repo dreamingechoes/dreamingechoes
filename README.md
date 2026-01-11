@@ -84,5 +84,4 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📈 Stats
 
-<img src="https://komarev.com/ghpvc/?username=dreamingechoes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamingechoes" /> </p>
-![dreamingechoe's Github stats](https://github-readme-stats.vercel.app/api?username=dreamingechoes&show_icons=true&count_private=true)
+<img src="https://komarev.com/ghpvc/?username=dreamingechoes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamingechoes" />
