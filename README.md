@@ -35,11 +35,11 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Every Yes Kills Something](https://dreamingecho.es/blog/every-yes-kills-something)
 - [Lonely in a Distributed World](https://dreamingecho.es/blog/lonely-in-a-distributed-world)
 - [The Year I Paused to Move Forward](https://dreamingecho.es/blog/the-year-i-paused-to-move-forward)
 - [The Comparison Trap](https://dreamingecho.es/blog/the-comparison-trap)
 - [High Achievers, Heavy Minds](https://dreamingecho.es/blog/high-achievers-heavy-minds)
-- [When Your Worth Becomes Your Output](https://dreamingecho.es/blog/when-your-worth-becomes-your-output)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
