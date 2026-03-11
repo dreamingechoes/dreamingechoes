@@ -35,11 +35,11 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aftermath Over Delivery: What Teams Skip After Shipping](https://dreamingecho.es/blog/what-teams-skip-after-shipping)
 - [Emotional Debt: The Technical Debt AI Accelerates](https://dreamingecho.es/blog/emotional-debt-is-the-new-technical-debt)
 - [The AI Fatigue Curve: Why Intensity Is Not Free](https://dreamingecho.es/blog/the-ai-fatigue-curve)
 - [AI Shrinks Cycle Time. Humans Don&#39;t.](https://dreamingecho.es/blog/ai-shrinks-cycle-time-humans-dont)
 - [Learning to Build in the Age of AI](https://dreamingecho.es/blog/learning-to-build-in-the-age-of-ai)
-- [Make the Failure Useful](https://dreamingecho.es/blog/make-the-failure-useful)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
