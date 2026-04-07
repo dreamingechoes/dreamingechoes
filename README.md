@@ -35,11 +35,11 @@ I'm a **Senior Software Engineer** and **Engineering Lead** passionate about **s
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What The Egg Can Teach Us About Building Software](https://dreamingecho.es/blog/what-the-egg-teaches-about-building-software)
 - [Career Grief: The Professional Endings That Still Hurt](https://dreamingecho.es/blog/career-grief-the-endings-that-still-hurt)
 - [Technology Should Serve Lives, Not Just Metrics](https://dreamingecho.es/blog/technology-should-serve-lives-not-just-metrics)
 - [Leading Without Forcing Alignment in AI-Accelerated Teams](https://dreamingecho.es/blog/leading-without-forcing-alignment)
 - [Aftermath Over Delivery: What Teams Skip After Shipping](https://dreamingecho.es/blog/what-teams-skip-after-shipping)
-- [Emotional Debt: The Technical Debt AI Accelerates](https://dreamingecho.es/blog/emotional-debt-is-the-new-technical-debt)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧑‍💻 Main Skills  
