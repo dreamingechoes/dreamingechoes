@@ -48,11 +48,11 @@ These days, I’m especially interested in **AI-native product development**: us
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Real AI Advantage Is the Workflow, Not the Model](https://dreamingecho.es/blog/real-ai-advantage-is-the-workflow)
 - [What The Egg Can Teach Us About Building Software](https://dreamingecho.es/blog/what-the-egg-teaches-about-building-software)
 - [Career Grief: The Professional Endings That Still Hurt](https://dreamingecho.es/blog/career-grief-the-endings-that-still-hurt)
 - [Technology Should Serve Lives, Not Just Metrics](https://dreamingecho.es/blog/technology-should-serve-lives-not-just-metrics)
 - [Leading Without Forcing Alignment in AI-Accelerated Teams](https://dreamingecho.es/blog/leading-without-forcing-alignment)
-- [Aftermath Over Delivery: What Teams Skip After Shipping](https://dreamingecho.es/blog/what-teams-skip-after-shipping)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Main Skills
