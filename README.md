@@ -48,11 +48,11 @@ These days, I’m especially interested in **AI-native product development**: us
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Engineering Work That Leaves No Commit](https://dreamingecho.es/blog/engineering-value-beyond-code)
 - [Career Standby: When the Future Stops Feeling Solid](https://dreamingecho.es/blog/career-standby-future-stops-feeling-solid)
 - [The Return of Taste in Software Engineering](https://dreamingecho.es/blog/the-return-of-taste-in-software-engineering)
 - [Returning to the Craft Is Not Moving Backwards](https://dreamingecho.es/blog/returning-to-the-craft-is-not-moving-backwards)
 - [The Emotional Cost of Constant Reinvention in Tech](https://dreamingecho.es/blog/the-emotional-cost-of-constant-reinvention-in-tech)
-- [The Real AI Advantage Is the Workflow, Not the Model](https://dreamingecho.es/blog/real-ai-advantage-is-the-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Main Skills
