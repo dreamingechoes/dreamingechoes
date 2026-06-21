@@ -48,11 +48,11 @@ These days, I’m especially interested in **AI-native product development**: us
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Decision Notes Over Decision Theatre](https://dreamingecho.es/blog/decision-notes-over-decision-theatre)
 - [The Small Map Before the Roadmap](https://dreamingecho.es/blog/the-small-map-before-the-roadmap)
 - [The Engineering Work That Leaves No Commit](https://dreamingecho.es/blog/engineering-value-beyond-code)
 - [Career Standby: When the Future Stops Feeling Solid](https://dreamingecho.es/blog/career-standby-future-stops-feeling-solid)
 - [The Return of Taste in Software Engineering](https://dreamingecho.es/blog/the-return-of-taste-in-software-engineering)
-- [Returning to the Craft Is Not Moving Backwards](https://dreamingecho.es/blog/returning-to-the-craft-is-not-moving-backwards)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Main Skills
