@@ -48,11 +48,11 @@ These days, I’m especially interested in **AI-native product development**: us
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Harness Should Follow the Conversation](https://dreamingecho.es/blog/the-ai-harness-should-follow-the-conversation)
 - [Borrowing the Question, Not the Framework](https://dreamingecho.es/blog/borrowing-the-question-not-the-framework)
 - [Shipping Debrief: The Work Is Not Done When It Ships](https://dreamingecho.es/blog/shipping-debrief-work-not-done)
 - [Approach Review Before the Pull Request Gets Expensive](https://dreamingecho.es/blog/approach-review-before-pull-request)
 - [Risk Sketch: Surface Risk Before It Becomes Rework](https://dreamingecho.es/blog/risk-sketch-surface-risk-before-rework)
-- [Decision Notes Over Decision Theatre](https://dreamingecho.es/blog/decision-notes-over-decision-theatre)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Main Skills
