@@ -1,52 +1,91 @@
 <img width="1585" height="396" alt="Group 29" src="https://github.com/user-attachments/assets/3d45d524-2e61-4deb-bdd0-85b1753ca518" />
 
-# Hi folks! 👋
+# Hi, I'm Iván 👋
 
-I'm an **Engineering Leader**, **Product Engineer**, and **Senior Software Engineer** with **over 15 years of experience** building product software at the intersection of **engineering, product, and people**.
+**Engineering Leader · Product Engineer · Senior Software Engineer**
 
-My work combines **technical depth**, **product thinking**, and **people-first leadership**. I’ve led remote teams, shaped technical direction, built systems end-to-end, and stayed hands-on across backend, platform, product development, and delivery.
+I build **products, engineering systems, and teams**.
 
-These days, I’m especially interested in **AI-native product development**: using AI not just to write code faster, but to improve the full path from **ideation and product definition** to **technical proposals, scope slicing, implementation, testing, and production**.
+For more than 15 years, I've worked at the intersection of **software engineering, product, and people** — from writing code and designing systems to shaping products, leading teams, mentoring engineers, and improving how software gets built.
 
-## 👨‍💻 What I Do
+I'm especially interested in how **AI is changing the entire product development loop** — not just coding faster, but how we explore ideas, define problems, make technical decisions, slice scope, build, review, test, ship, and learn.
 
-- **Co-Founder & Product Engineer at [Avenida](https://www.avenida.so/)** — building the product and owning the engineering side end-to-end in close collaboration with Product.
-- **Mentor at MentorCruise** — helping engineers grow in backend development, system design, leadership, and career development.
-- **Writer & Playbook Builder** — sharing practical ideas on engineering leadership, delivery, and the human side of technology through my blog and public playbooks.
+[![Website](https://img.shields.io/badge/Website-dreamingecho.es-000000?style=flat-square\&logo=safari\&logoColor=white)](https://dreamingecho.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_González_Sáiz-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ivan-gonzalez-saiz)
+[![Blog](https://img.shields.io/badge/Blog-Writing-FF5722?style=flat-square\&logo=rss\&logoColor=white)](https://dreamingecho.es/blog)
+[![Resume](https://img.shields.io/badge/Resume-CV-555555?style=flat-square)](https://dreamingecho.es/cv)
 
-## 🧠 What I Care About
+---
 
-- Building **useful products** with strong end-to-end ownership
-- Designing **pragmatic systems** that stay maintainable over time
-- Creating **healthy engineering environments** with clarity, trust, and sustainable execution
-- Helping teams navigate ambiguity through **product thinking**, good trade-offs, and better ways of working
-- Exploring **AI-native workflows** for modern software and product development
+## 🚀 What I'm Building
 
-## 🛠️ Tech I Work With
+### [Avenida](https://www.avenida.so/)
 
-- **Backend:** Elixir, Phoenix, Ruby, Rails, Python
-- **Frontend:** JavaScript, TypeScript, React, Next.js, React Native
-- **Databases:** PostgreSQL, MySQL
-- **Infra & Delivery:** AWS, Docker, CI/CD, observability
-- **Currently exploring more deeply:** AI-assisted workflows, product development systems, developer experience
+**Co-Founder & Product Engineer**
 
-## 💬 Ask Me About
+Building Avenida end-to-end in close collaboration with Product — from product definition and technical direction to architecture, backend, frontend, infrastructure, and delivery.
 
-- **Product engineering** and building from **0→1**
-- **Engineering leadership**, mentoring, and team growth
-- **Backend architecture**, APIs, delivery, and maintainable systems
-- **AI-native product development** and workflow design
-- **Remote-first collaboration** and sustainable execution
+It's also where I experiment most with **AI-native product development**, agentic workflows, engineering automation, and new ways of moving from an idea to production without sacrificing product thinking or engineering quality.
 
-## 📫 Reach Me
+---
 
-- **Email:** hi@dreamingecho.es
-- **LinkedIn:** [linkedin.com/in/ivan-gonzalez-saiz](https://linkedin.com/in/ivan-gonzalez-saiz)
-- **Website:** [dreamingecho.es](https://dreamingecho.es)
-- **Resume:** [dreamingecho.es/cv](https://dreamingecho.es/cv)
-- **Playbooks:** [dreamingecho.es/playbooks](https://dreamingecho.es/playbooks)
+## 🧭 What I Work On
 
-## 📝 Latest Blog Posts
+* **Product Engineering** — turning ambiguous ideas into useful products and taking them from **0→1**
+* **Engineering Leadership** — creating clarity, ownership, trust, and sustainable execution
+* **Software Architecture** — designing pragmatic systems that remain understandable and maintainable
+* **AI-Native Development** — exploring how AI can improve the complete engineering and product workflow
+* **Developer Experience** — reducing friction in how engineers build, test, ship, and operate software
+* **Mentoring** — helping engineers grow technically, professionally, and as future leaders
+
+---
+
+## 🛠️ Main Skills
+
+### Backend & APIs
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge\&logo=elixir\&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge\&logo=phoenixframework\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge\&logo=rubyonrails\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+### Frontend & Product Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Data, Infra & Delivery
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-555555?style=for-the-badge)
+
+### AI & Engineering Workflows
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-222222?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-555555?style=for-the-badge)
+![Developer Experience](https://img.shields.io/badge/Developer_Experience-333333?style=for-the-badge)
+
+> Technologies change. I care more about choosing the right tool, keeping systems understandable, and building software that can evolve without becoming painful to change.
+
+---
+
+## ✍️ Writing About Engineering
+
+I write about **engineering leadership, product development, AI, software delivery, and the small practices that help engineering teams work better**.
+
+### Latest posts
+
 <!-- BLOG-POST-LIST:START -->
 - [The AI Harness Should Follow the Conversation](https://dreamingecho.es/blog/the-ai-harness-should-follow-the-conversation)
 - [Borrowing the Question, Not the Framework](https://dreamingecho.es/blog/borrowing-the-question-not-the-framework)
@@ -55,37 +94,50 @@ These days, I’m especially interested in **AI-native product development**: us
 - [Risk Sketch: Surface Risk Before It Becomes Rework](https://dreamingecho.es/blog/risk-sketch-surface-risk-before-rework)
 <!-- BLOG-POST-LIST:END -->
 
-## 🧰 Main Skills
+→ **[Read all articles](https://dreamingecho.es/blog)**
 
-### Backend & APIs
-![Elixir](https://img.shields.io/badge/-Elixir-4e2a8e?style=flat-square&logo=elixir)
-![Phoenix](https://img.shields.io/badge/-Phoenix-4e2a8e?style=flat-square&logo=phoenixframework)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
-![Ruby On Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=ruby-on-rails)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+---
 
-### Frontend & Product Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 📚 Engineering Playbooks
 
-### Data, Infra & Delivery
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
+I'm interested in the **operating layer around software engineering**: the small practices between strategy and code that help teams make better decisions.
+
+My public playbooks cover topics like:
+
+**Decision-making · Risk discovery · Approach reviews · Scope · Delivery · Shipping debriefs · Team practices**
+
+→ **[Explore the playbooks](https://dreamingecho.es/playbooks)**
+
+---
+
+## 🤝 Mentoring
+
+I'm a mentor at **[MentorCruise](https://mentors.to/ivan-gonzalez-saiz)**, where I help software engineers develop stronger skills in:
+
+* Backend and software architecture
+* Product engineering
+* Technical decision-making
+* Engineering leadership
+* Career development
+* Moving from senior engineer toward technical or people leadership
+
+I particularly enjoy helping engineers move beyond simply implementing tickets toward understanding **why we're building something, how to make good trade-offs, and how to increase their impact beyond code**.
+
+---
 
 ## 🌍 Find Me Around the Internet
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-gonzalez-saiz/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dreamingechoes)
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-2ED3BA?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/dreamingechoes)
-[![Stack Overflow Badge](https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5218888)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dreamingechoes)
+[![Website](https://img.shields.io/badge/dreamingecho.es-Website-000000?style=for-the-badge\&logo=safari\&logoColor=white)](https://dreamingecho.es) [![Blog](https://img.shields.io/badge/dreamingecho.es-Blog-FF5722?style=for-the-badge\&logo=rss\&logoColor=white)](https://dreamingecho.es/blog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_González_Sáiz-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ivan-gonzalez-saiz) [![MentorCruise](https://img.shields.io/badge/MentorCruise-Mentor-172E59?style=for-the-badge)]([https://mentorcruise.com/mentor/ivngonzlezsiz/](https://mentors.to/ivan-gonzalez-saiz)) [![Email](https://img.shields.io/badge/Email-hi%40dreamingecho.es-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hi@dreamingecho.es)
 
-## 📈 Stats
+---
 
-<img src="https://komarev.com/ghpvc/?username=dreamingechoes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamingechoes" />
+## 📈 GitHub Stats
+
+![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivangonzalez\&show_icons=true\&hide_title=true\&hide_rank=true)
+
+---
+
+<p align="center">
+  <i>Building useful products, better engineering systems, and healthier ways of working.</i>
+</p>
+
