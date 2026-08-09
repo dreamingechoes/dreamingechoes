@@ -131,12 +131,6 @@ I particularly enjoy helping engineers move beyond simply implementing tickets t
 
 ---
 
-## 📈 GitHub Stats
-
-![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivangonzalez\&show_icons=true\&hide_title=true\&hide_rank=true)
-
----
-
 <p align="center">
   <i>Building useful products, better engineering systems, and healthier ways of working.</i>
 </p>
