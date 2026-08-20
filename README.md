@@ -87,11 +87,11 @@ I write about **engineering leadership, product development, AI, software delive
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Growing Engineering Judgment Without the Grunt Work](https://dreamingecho.es/blog/growing-engineering-judgment-without-grunt-work)
 - [The Half of Product Engineering Nobody Assigns You](https://dreamingecho.es/blog/half-product-engineering-nobody-assigns-you)
 - [The AI Harness Should Follow the Conversation](https://dreamingecho.es/blog/the-ai-harness-should-follow-the-conversation)
 - [Borrowing the Question, Not the Framework](https://dreamingecho.es/blog/borrowing-the-question-not-the-framework)
 - [Shipping Debrief: The Work Is Not Done When It Ships](https://dreamingecho.es/blog/shipping-debrief-work-not-done)
-- [Approach Review Before the Pull Request Gets Expensive](https://dreamingecho.es/blog/approach-review-before-pull-request)
 <!-- BLOG-POST-LIST:END -->
 
 → **[Read all articles](https://dreamingecho.es/blog)**
