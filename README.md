@@ -87,11 +87,11 @@ I write about **engineering leadership, product development, AI, software delive
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When Asking AI Means Asking People Less](https://dreamingecho.es/blog/asking-ai-means-asking-people-less)
 - [The Management Skills I Brought Back to IC](https://dreamingecho.es/blog/management-skills-brought-back-to-ic)
 - [AI Is Breaking Our Proxies for Engineering Seniority](https://dreamingecho.es/blog/ai-breaking-proxies-engineering-seniority)
 - [Growing Engineering Judgment Without the Grunt Work](https://dreamingecho.es/blog/growing-engineering-judgment-without-grunt-work)
 - [The Half of Product Engineering Nobody Assigns You](https://dreamingecho.es/blog/half-product-engineering-nobody-assigns-you)
-- [The AI Harness Should Follow the Conversation](https://dreamingecho.es/blog/the-ai-harness-should-follow-the-conversation)
 <!-- BLOG-POST-LIST:END -->
 
 → **[Read all articles](https://dreamingecho.es/blog)**
