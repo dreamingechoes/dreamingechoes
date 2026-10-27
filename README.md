@@ -100,11 +100,19 @@ I write about **engineering leadership, product development, AI, software delive
 
 ## 📚 Engineering Playbooks
 
-I'm interested in the **operating layer around software engineering**: the small practices between strategy and code that help teams make better decisions.
+I'm interested in the **operating layer around software engineering**: the practices, decisions, and ways of working that help us build better software and healthier teams.
 
-My public playbooks cover topics like:
+I've been documenting what I've learned through experience, research, and reflection in two public playbooks:
 
-**Decision-making · Risk discovery · Approach reviews · Scope · Delivery · Shipping debriefs · Team practices**
+### 🧭 [Engineering Leadership Playbook](https://dreamingecho.es/playbooks/engineering-leadership/)
+
+A practical collection of principles, frameworks, and reusable templates for leading engineering teams. Covering everything from decision-making, delivery, and technical direction to team culture, collaboration, and sustainable ways of working.
+
+### 🤖 [AI Builder Playbook](https://dreamingecho.es/playbooks/ai-builder/)
+
+A living, always-work-in-progress collection of experiments, practical guides, and lessons learned from building software with AI. Exploring coding agents, context engineering, AI harnesses, team workflows, and how AI is reshaping the way we build software.
+
+Both are **living resources**, evolving as I learn, experiment, and reconsider what I thought I knew.
 
 → **[Explore the playbooks](https://dreamingecho.es/playbooks)**
 
