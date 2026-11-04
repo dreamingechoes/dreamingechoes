@@ -87,11 +87,11 @@ I write about **engineering leadership, product development, AI, software delive
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster Engineers Are Not Yet Proof of a Faster Team](https://dreamingecho.es/blog/faster-engineers-not-proof-faster-team)
 - [From Coding Agents to Software Factories: Rethinking How Teams Work](https://dreamingecho.es/blog/coding-agents-to-software-factories)
 - [When Asking AI Means Asking People Less](https://dreamingecho.es/blog/asking-ai-means-asking-people-less)
 - [The Management Skills I Brought Back to IC](https://dreamingecho.es/blog/management-skills-brought-back-to-ic)
 - [AI Is Breaking Our Proxies for Engineering Seniority](https://dreamingecho.es/blog/ai-breaking-proxies-engineering-seniority)
-- [Growing Engineering Judgment Without the Grunt Work](https://dreamingecho.es/blog/growing-engineering-judgment-without-grunt-work)
 <!-- BLOG-POST-LIST:END -->
 
 → **[Read all articles](https://dreamingecho.es/blog)**
